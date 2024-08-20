@@ -97,7 +97,7 @@ void startFanForward()
 
 Dieses Projekt eignet sich hervorragend für den Einstieg in die Arbeit mit Mikrocontrollern und sensorbasierten Systemen, insbesondere in der Luftqualitätsüberwachung. Es kann als Grundlage für komplexere Systeme verwendet werden, die beispielsweise mehrere Sensoren integrieren oder die Steuerung des Lüfters optimieren.
 
-**Wichtiger Hinweis**: Der MQ2-Gassensor benötigt eine Aufwärmzeit von mehreren Minuten, bevor er zuverlässige Messwerte liefern kann. Diese Aufwärmzeit ist entscheidend für genaue Ergebnisse und sollte unbedingt eingehalten werden.
+**Wichtiger Hinweis**: Der MQ2-Gassensor benötigt eine Aufwärmzeit von mehreren Minuten, bevor er zuverlässige Messwerte liefern kann. Diese Aufwärmzeit ist entscheidend für genaue Ergebnisse und sollte unbedingt eingehalten werden. Hierfür einfach die Werte im Seriellen Motor beobachten. Sobald die Werte stagnieren, ist der Sensor betriebsbereit. 
 
 **Erweiterungsmöglichkeiten**:
 - Anpassung des Schwellenwerts zur Feinjustierung der Lüftersteuerung
