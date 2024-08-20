@@ -99,6 +99,8 @@ Dieses Projekt eignet sich hervorragend für den Einstieg in die Arbeit mit Mikr
 
 **Wichtiger Hinweis**: Der MQ2-Gassensor benötigt eine Aufwärmzeit von mehreren Minuten, bevor er zuverlässige Messwerte liefern kann. Diese Aufwärmzeit ist entscheidend für genaue Ergebnisse und sollte unbedingt eingehalten werden. Hierfür einfach die Werte im Seriellen Motor beobachten. Sobald die Werte stagnieren, ist der Sensor betriebsbereit. 
 
+Zudem muss dem Schwellenwert rumprobiert werden. Dieser kann je nach Raum, Temperatur etc. sehr unterschiedlich sein. Natürlich bietet es sich ebenfalls an, dies als interaktive Aufgabe zu integrieren. 
+
 **Erweiterungsmöglichkeiten**:
 - Anpassung des Schwellenwerts zur Feinjustierung der Lüftersteuerung
 - Integration eines Displays zur Echtzeit-Anzeige der Gaskonzentration
